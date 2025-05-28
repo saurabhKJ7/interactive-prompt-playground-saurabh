@@ -62,7 +62,6 @@ The script will:
 
 ## Results Format
 
-Output is a pandas dataframe with the following columns:
 - model
 - temperature
 - max_tokens
@@ -70,7 +69,6 @@ Output is a pandas dataframe with the following columns:
 - frequency_penalty
 - response
 
-These files can be used for further analysis or visualization.
 
 ## Parameter Effects Table
 
